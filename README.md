@@ -25,11 +25,11 @@ You need Python installed on your machine to play this game.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Adnane-Ammor/weird-branching-descent.git](https://github.com/Adnane-Ammor/weird-branching-descent.git)
+    git clone [https://github.com/Adnane-Ammor/weird-branching-descent--python-edition.git](https://github.com/Adnane-Ammor/weird-branching-descent--python-edition.git)
     ```
 2.  **Navigate to the directory:**
     ```bash
-    cd weird-branching-descent
+    cd weird-branching-descent--python-edition
     ```
 
 ### How to Run
@@ -53,7 +53,7 @@ python WBDPE_v0_1.py
 ## 📂 Project Structure
 
 ```text
-weird-branching-descent/
+weird-branching-descent--python-edition/
 ├── README.md                               # This documentation file
 ├── WBDPE_v0_1_no_error_handling.py         # The main game source codev without the AI-generated error-handling
 └── WBDPE_v0_1.py                           # The main game source code
